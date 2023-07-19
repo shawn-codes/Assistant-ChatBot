@@ -7,8 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  /* background: #e3f2fd; */
-  background: rgb(242, 236, 236);
+  background: #e3f2fd;
 }
 .chatbot-toggler {
   position: fixed;
