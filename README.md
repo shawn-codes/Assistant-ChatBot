@@ -4,7 +4,7 @@
 ## Table of contents
 
 - [What it does](#what-it-does)
-- [How i built it](#how-i-built-it)
+- [How I built it](#how-i-built-it)
   <!-- - [Links](#links) -->
 
 ## What It Does
