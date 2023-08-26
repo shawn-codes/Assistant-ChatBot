@@ -9,7 +9,6 @@ const API_KEY = "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"; // Paste 
 const inputInitHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
-  // Create a chat <li> element with passed message and className
   const chatLi = document.createElement("li");
   chatLi.classList.add("chat", `${className}`);
   let chatContent =
@@ -56,7 +55,6 @@ const handleChat = () => {
   userMessage = chatInput.value.trim(); // Get user entered message and remove extra whitespace
   if (!userMessage) return;
 
-  // Clear the input textarea and set its height to default
   chatInput.value = "";
   chatInput.style.height = `${inputInitHeight}px`;
 
