@@ -15,5 +15,5 @@ A simple assistant-chatbot that servers as a virtual assistant for users that's 
 - Semantic HTML5 markup
 - CSS custom properties
 - JavaScript
-- OpenAi API
+- OpenAI API
 
